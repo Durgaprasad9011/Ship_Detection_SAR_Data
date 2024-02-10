@@ -65,7 +65,7 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 | ![Data](https://drive.google.com/uc?id=1RNO_4UwMWYiPk2Vkay0rpVQ4q_U48XOr) |![Data](predict/P0063_600_1400_7800_8600.jpg) |
 | ![Data](https://drive.google.com/uc?id=1XwFanW_G3EzBF_L2ZuuMP_Nv7Pe70yUx) |![Data](predict/P0004_3000_3800_1800_2600.jpg) |
 
-- You can find additional predicted detection images within the "predictions" folder.
+- You can find additional predicted detection images within the "predict" folder.
 ## Reference Paper:
 
 [1] Shunjun Wei ; Xiangfeng Zeng ; Qizhe Qu ; Mou Wang ; Hao Su ; Jun Shi. "[HRSID: A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9127939)" . IEEE Access
