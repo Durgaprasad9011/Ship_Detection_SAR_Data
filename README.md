@@ -47,10 +47,13 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
  
 ## Predictions:
 
-| Left Image (1.jpg) | Right Image (2.jpg) |
+| Original Image | Predicted Detection |
 |--------------------|----------------------|
-| ![1.jpg](1.jpg)     | ![2.jpg](2.jpg)      |
-| ...                | ...                  |
+| ![Data](https://drive.google.com/uc?id=1lNUabrPWu0PYlqN0ZTyImkZnyI0-v8US)     | ![Data](predict/P0067_1200_2000_5400_6200.jpg)       |
+| ![Data](https://drive.google.com/uc?id=1wszCTT6Ihs9vwJv8mUrVQwtC8-hT-NQN)                |  ![Data](predict/P0005_600_1400_8189_8989.jpg)                 |
+| ![Data](https://drive.google.com/uc?id=12wM_JvqZ2_QrX7HIHH-xi_smkzPXUT6H) |![Data](predict/P0106_4200_5000_18000_18800.jpg) |
+| ![Data](https://drive.google.com/uc?id=1RNO_4UwMWYiPk2Vkay0rpVQ4q_U48XOr) |![Data](predict/P0063_600_1400_7800_8600.jpg) |
+| ![Data](https://drive.google.com/uc?id=1XwFanW_G3EzBF_L2ZuuMP_Nv7Pe70yUx) |![Data](predict/P0004_3000_3800_1800_2600.jpg) |
 
 ## Reference Paper:
 
