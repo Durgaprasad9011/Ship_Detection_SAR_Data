@@ -12,32 +12,8 @@
 
 
 5) The dataset folder structure is now organized as follows:
-    
-    SUHORA INTERNSHIP
-    |
-    |--> train
-    |       |
-    |       |--> images
-    |       |       |-> P0001_0_800_7200_8000.jpg
-    |       |       |-> P0001_0_800_8400_9200.jpg
-    |       |       |  ...
-    |       |
-    |       |--> labels
-    |               |-> P0001_0_800_7200_8000.txt
-    |               |-> P0001_0_800_8400_9200.txt
-    |               |  ...
-    |
-    |--> val
-            |
-            |--> images
-            |       |-> P0001_0_800_10190_10990.jpg
-            |       |-> P0001_1200_2000_3600_4400.jpg
-            |       |  ...
-            |
-            |--> labels
-                    |-> P0001_0_800_10190_10990.txt
-                    |-> P0001_1200_2000_3600_4400.txt
-                    |  ...
+
+![Data](https://drive.google.com/uc?id=1L_qpaCtYInblTDJoPgUL65IOn2RwVR2X)
     
 
 Download the extracted dataset from [this link](www.googledrive.durga.com).
@@ -46,7 +22,7 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 
 - Used YOLOv8 Model for Ship Detection and trained on the dataset.
 - Find the best model weights in the weights folder (best.pt).
-- View training results in "[results.csv](results.csv)".
+- View training results in "[results.csv](runs/detect/train/results.csv)".
 
 *Check the Code:*
 
