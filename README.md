@@ -57,4 +57,4 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 
 ## Reference Paper:
 
-Link to the reference paper comes here.
+[1] Shunjun Wei ; Xiangfeng Zeng ; Qizhe Qu ; Mou Wang ; Hao Su ; Jun Shi. "[HRSID: A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9127939)" . IEEE Access
