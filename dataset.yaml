@@ -1,0 +1,6 @@
+train: C:\SUHORA INTERNSHIP\train
+val: C:\SUHORA INTERNSHIP\val
+
+nc: 1
+
+names: ["ship"]
