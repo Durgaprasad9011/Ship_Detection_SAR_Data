@@ -16,7 +16,7 @@
    ![Data](https://drive.google.com/uc?id=1L_qpaCtYInblTDJoPgUL65IOn2RwVR2X)
     
 
-Download the extracted dataset from [this link](www.googledrive.durga.com).
+Download the extracted dataset from [this link](https://drive.google.com/file/d/1iwsI2q533KHE2bnibfQDrcgpjTjKtBfH/view?usp=sharing).
 
 ## Model Training:
 
