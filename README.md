@@ -1,4 +1,4 @@
-# Ship Detection in SAR (Synthetic Aperture radar) Data
+# Ship Detection in SAR (Synthetic Aperture Radar) Data
 
 ## Data Preparation:
 
@@ -13,7 +13,7 @@
 
 5) The dataset folder structure is now organized as follows:
 
-![Data](https://drive.google.com/uc?id=1L_qpaCtYInblTDJoPgUL65IOn2RwVR2X)
+   ![Data](https://drive.google.com/uc?id=1L_qpaCtYInblTDJoPgUL65IOn2RwVR2X)
     
 
 Download the extracted dataset from [this link](www.googledrive.durga.com).
