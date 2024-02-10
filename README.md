@@ -43,7 +43,7 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 ![Confusion Matrix](runs/detect/train/confusion_matrix.png)
 
 
-*More results can be found in runs/detect/train folder.*
+- More results can be found in runs/detect/train folder.
  
 ## Predictions:
 
