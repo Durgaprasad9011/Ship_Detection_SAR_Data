@@ -61,15 +61,15 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 ## Qualitative:
 
 ### Results Plot:
-![Results Plot](results_plot.png)
+![Results Plot](runs/detect/train/results.png)
 
 ### Confusion Matrix:
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](runs/detect/train/confusion_matrix.png)
 
 ### Additional Results:
 
 - F1, P, PR, R Curve:
-  ![F1.png](F1.png)  ![P.png](P.png)  ![PR.png](PR.png)  ![R.png](R.png)
+  ![F1.png](runs/detect/train/F1_curve.png)  ![P.png](runs/detect/train/P_curve.png)  ![PR.png](runs/detect/train/PR_curve.png)  ![R.png](runs/detect/train/R_curve.png)
 
 *More results can be found in runs/detect/train folder.*
  
