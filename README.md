@@ -26,7 +26,7 @@ Download the extracted dataset from [this link](https://drive.google.com/file/d/
 
 *Check the Code:*
 
-- For more details on model training and evaluation, refer to the code in ship_detection.ipynb or ship_detection.py.
+- For more details on model training and evaluation, refer to the code in "[ship_detection.ipynb](ship_detection.ipynb)" or "[ship_detection.py](ship_detection.py)".
 
 ## Quantitative Results:
 
