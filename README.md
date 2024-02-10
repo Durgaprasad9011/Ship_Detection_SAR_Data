@@ -66,10 +66,6 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 ### Confusion Matrix:
 ![Confusion Matrix](runs/detect/train/confusion_matrix.png)
 
-### Additional Results:
-
-- F1, P, PR, R Curve:
-  ![F1.png](runs/detect/train/F1_curve.png)  ![P.png](runs/detect/train/P_curve.png)  ![PR.png](runs/detect/train/PR_curve.png)  ![R.png](runs/detect/train/R_curve.png)
 
 *More results can be found in runs/detect/train folder.*
  
