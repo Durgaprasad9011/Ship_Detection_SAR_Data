@@ -34,7 +34,7 @@ Download the extracted dataset from [this link](www.googledrive.durga.com).
 |-----------|--------|-------|----------|
 | 0.906     | 0.777  | 0.879 | 0.626    |
 
-## Qualitative:
+## Qualitative Results:
 
 ### Results Plot:
 ![Results Plot](runs/detect/train/results.png)
