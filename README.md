@@ -8,7 +8,7 @@
 
 3) To organize the dataset, I utilized the information from train.json. I mapped image names in the JSON file to the corresponding folders containing images. Subsequently, I moved the mapped images to the "train" folder. This process was repeated for the "test" folder, resulting in a dataset split of 65% for training and 35% for testing.
 
-4) For each image file, I generated a corresponding text file with annotations in the YOLO-supported format. The bounding box (bbox) values were extracted from the respective train.json and test.json files. These values were then normalized by the height and width of the images, with a class information column added (prefixed with 0). YOLO requires annotations in a 5-column format [class, x_min, y_min, z_max, y_max].
+4) For each image file, I generated a corresponding text file with annotations in the YOLO-supported format. The bounding box (bbox) values were extracted from the respective train.json and test.json files. These values were then normalized by the height and width of the images, with a class information column added (prefixed with 0). YOLO requires annotations in a 5-column format [class, x_min, y_min, x_max, y_max].
 
 
 5) The dataset folder structure is now organized as follows:
