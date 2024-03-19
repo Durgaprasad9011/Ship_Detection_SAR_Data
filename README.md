@@ -10,13 +10,6 @@
 
 4) For each image file, I generated a corresponding text file with annotations in the YOLO-supported format. The bounding box (bbox) values were extracted from the respective train.json and test.json files. These values were then normalized by the height and width of the images, with a class information column added (prefixed with 0). Since, YOLO requires annotations in a 5-column format [class, x_min, y_min, x_max, y_max].
 
-
-5) The dataset folder structure is now organized as follows:
-
-    
-
-Download the extracted dataset from [this link](https://drive.google.com/file/d/1iwsI2q533KHE2bnibfQDrcgpjTjKtBfH/view?usp=sharing).
-
 ## Model Training:
 
 - Used YOLOv8 Model for Ship Detection and trained on the dataset.
